@@ -114,8 +114,8 @@
 ### 🐍 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/master2it/master2it/output/github-snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/master2it/master2it/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/master2it/master2it/gh-pages/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/master2it/master2it/gh-pages/github-snake.svg" />
 </picture>
 
 ---
